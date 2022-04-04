@@ -9,14 +9,14 @@ let fg = new Image();
 let pipeUp = new Image();
 let pipeDown = new Image();
 
-bird.src = "./images/dev-code.svg";
+bird.src = "./images/dev-code.png";
 bg.src = "./images/background.png";
 fg.src = "./images/bottom-background.png";
 pipeUp.src = "./images/pipe-up.png";
 pipeDown.src = "./images/pipe-down.png";
 
 /* Variables */
-let gap = 85; //85
+let gap = 85;
 let constant;
 let bX = 10;
 let bY = 150;
